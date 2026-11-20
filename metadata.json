@@ -1,0 +1,6 @@
+{
+  "name": "Revenge City",
+  "description": "3D open-world action adventure game starring George Nikoladze with driving, missions, buyable houses, shops, day-night cycle, and voiced cinematic cutscenes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
